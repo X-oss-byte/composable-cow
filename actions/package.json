@@ -21,7 +21,7 @@
     "@sentry/integrations": "^7.64.0",
     "@sentry/node": "^7.64.0",
     "@tenderly/actions": "^0.0.13",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "ethers": "^5.7.2",
     "node-fetch": "2",
     "node-slack": "^0.0.7",
